@@ -1,2 +1,2 @@
-# Bannertech
-site de aprendizagem
+# banner
+Código de html para aula de Pensamento Computacional.
